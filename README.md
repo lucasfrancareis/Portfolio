@@ -1,8 +1,3 @@
-<div align="center">
-  <img width="100%" alt="Banner do Portfólio" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
-  <br />
-  <br />
 
   <h1>🚀 Portfólio Profissional | Lucas França</h1>
   
@@ -101,13 +96,11 @@ portifolio/
 ├── index.html           # Arquivo HTML base
 ├── tailwind.config.js   # Configuração do Tailwind CSS
 └── vite.config.ts       # Configuração do Vite
-
-👤 Autor
-<div align="center"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/lucasfrancareis.png" width="100px;" alt="Foto de Lucas França no GitHub"/>
-
+```
+## 👤 Autor
+<div align="center"> <img src="https://github.com/lucasfrancareis.png" width="100px;" alt="Foto de Lucas França no GitHub"/>
 
 <b>Lucas França</b>
-
 
 <i>Estudante de Sistemas de Informação @ UFU</i> </div>
 
