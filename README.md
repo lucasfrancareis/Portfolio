@@ -98,7 +98,7 @@ portifolio/
 └── vite.config.ts       # Configuração do Vite
 ```
 ## 👤 Autor
-<div align="center"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/lucasfrancareis.png" width="100px;" alt="Foto de Lucas França no GitHub"/>
+<div align="center"> <img src="perfil.jpg" width="100px;" alt="Foto de Lucas França no GitHub"/>
 
 <b>Lucas França</b>
 
