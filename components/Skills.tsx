@@ -7,7 +7,9 @@ const skills: Skill[] = [
   { name: 'Inteligência Artificial', level: 'Intermediário', category: 'Tech', icon: <Brain className="w-6 h-6" /> },
   { name: 'AWS Cloud', level: 'Iniciante', category: 'Cloud', icon: <Cloud className="w-6 h-6" /> },
   { name: 'Inglês', level: 'Intermediário', category: 'Idiomas', icon: <Zap className="w-6 h-6" /> },
-  { name: 'Português', level: 'Aprofundado', category: 'Idiomas', icon: <Zap className="w-6 h-6" /> }
+  { name: 'Português', level: 'Aprofundado', category: 'Idiomas', icon: <Zap className="w-6 h-6" /> },
+  { name: 'Ruby on Rails', level: 'Iniciante', category: 'Tech', icon: <Zap className="w-6 h-6" /> },
+  { name: 'Node.js', level: 'Iniciante', category: 'Tech', icon: <Zap className="w-6 h-6" /> }
 ];
 
 const certificates: Certificate[] = [
@@ -29,11 +31,11 @@ const certificates: Certificate[] = [
   },
   {
     id: 3,
-    title: 'AWS Certified Cloud Practitioner',
+    title: 'AWS Certified Cloud Practitioner Essentials',
     issuer: 'Amazon Web Services',
-    date: 'Previsão: 2025',
-    status: 'Em Curso',
-    imageUrl: 'AWSimagem.jpg',
+    date: 'Concluído',
+    status: 'Concluído',
+    imageUrl: 'AWS Cloud Practitioner Essentials.jpg.png',
   },
 ];
 
